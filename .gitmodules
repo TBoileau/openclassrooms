@@ -1,0 +1,3 @@
+[submodule "src/developpeur-web/projet-6"]
+	path = src/developpeur-web/projet-6
+	url = git@github.com:TBoileau/oc-devweb-6.git

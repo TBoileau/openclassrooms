@@ -25,3 +25,5 @@
 [submodule "src/php-symfony/projet-5"]
 	path = src/php-symfony/projet-5
 	url = git@github.com:TBoileau/oc-symfony-5.git
+[submodule "src/frontend/projet-6"]
+	url = git@github.com:TBoileau/oc-frontend-6.git

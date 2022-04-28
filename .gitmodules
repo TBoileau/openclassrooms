@@ -19,3 +19,9 @@
 [submodule "src/python/projet-9"]
 	path = src/python/projet-9
 	url = git@github.com:TBoileau/oc-python-9.git
+[submodule "src/php-symfony/projet-7"]
+	path = src/php-symfony/projet-7
+	url = git@github.com:TBoileau/oc-symfony-7.git
+[submodule "src/php-symfony/projet-5"]
+	path = src/php-symfony/projet-5
+	url = git@github.com:TBoileau/oc-symfony-5.git

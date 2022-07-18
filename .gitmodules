@@ -25,3 +25,6 @@
 [submodule "src/frontend/projet-6"]
 	path = src/frontend/projet-6
 	url = git@github.com:TBoileau/oc-frontend-6.git
+[submodule "src/developpeur-web/projet-2"]
+	path = src/developpeur-web/projet-2
+	url = git@github.com:TBoileau/oc-devweb-2.git

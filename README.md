@@ -4,10 +4,13 @@
 
 ### Développeur web
 * [Projet 2](https://github.com/TBoileau/oc-devweb-2)
+* [Projet 3](https://github.com/TBoileau/oc-devweb-3)
 * [Projet 5](https://github.com/TBoileau/oc-devweb-5)
+* [Projet 7](https://github.com/TBoileau/oc-devweb-7)
 
 ### Développeur d'application Frontend
 * [Projet 6](https://github.com/TBoileau/oc-frontend-6)
+* [Projet 7](https://github.com/TBoileau/oc-frontend-7)
 
 ### Développeur d'application PHP/Symfony
 * [Projet 5](https://github.com/TBoileau/oc-symfony-5)

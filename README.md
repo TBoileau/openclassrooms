@@ -2,6 +2,9 @@
 
 ## Liste des parcours et projets
 
+### Testeur logiciel
+* [Projet 2](https://github.com/TBoileau/oc-testeur-2)
+
 ### Développeur web
 * [Projet 2](https://github.com/TBoileau/oc-devweb-2)
 * [Projet 3](https://github.com/TBoileau/oc-devweb-3)

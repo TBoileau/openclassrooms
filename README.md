@@ -4,6 +4,7 @@
 
 ### Testeur logiciel
 * [Projet 2](https://github.com/TBoileau/oc-testeur-2)
+* [Projet 3](https://github.com/TBoileau/oc-testeur-3)
 
 ### Développeur web
 * [Projet 2](https://github.com/TBoileau/oc-devweb-2)

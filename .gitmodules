@@ -52,3 +52,6 @@
 [submodule "src/testeur-logiciel/projet-3"]
 	path = src/testeur-logiciel/projet-3
 	url = git@github.com:TBoileau/oc-testeur-3.git
+[submodule "src/testeur-logiciel/projet-6"]
+	path = src/testeur-logiciel/projet-6
+	url = git@github.com:TBoileau/oc-testeur-6.git

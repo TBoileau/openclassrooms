@@ -6,6 +6,7 @@
 * [Projet 2](https://github.com/TBoileau/oc-testeur-2)
 * [Projet 3](https://github.com/TBoileau/oc-testeur-3)
 * [Projet 6](https://github.com/TBoileau/oc-testeur-6)
+* [Projet 8](https://github.com/TBoileau/oc-testeur-8)
 
 ### Développeur web
 * [Projet 2](https://github.com/TBoileau/oc-devweb-2)

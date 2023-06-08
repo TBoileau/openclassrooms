@@ -46,15 +46,3 @@
 [submodule "src/developpeur-web/projet-3"]
 	path = src/developpeur-web/projet-3
 	url = git@github.com:TBoileau/oc-devweb-3.git
-[submodule "src/testeur-logiciel/projet-2"]
-	path = src/testeur-logiciel/projet-2
-	url = git@github.com:TBoileau/oc-testeur-2.git
-[submodule "src/testeur-logiciel/projet-3"]
-	path = src/testeur-logiciel/projet-3
-	url = git@github.com:TBoileau/oc-testeur-3.git
-[submodule "src/testeur-logiciel/projet-6"]
-	path = src/testeur-logiciel/projet-6
-	url = git@github.com:TBoileau/oc-testeur-6.git
-[submodule "src/testeur-logiciel/projet-8"]
-	path = src/testeur-logiciel/projet-8
-	url = git@github.com:TBoileau/oc-testeur-8.git
